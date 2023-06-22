@@ -12,6 +12,4 @@ This repository contains links and resources to our slide show presentation. Onc
 
 <br>
 
-## Network Topology
-
-![Network](https://drive.google.com/file/d/1qlcgNT4YcZISOc7Lg6zPkyXDYgw9bfbz/view?usp=sharing)
+## [Network Topology](https://drive.google.com/file/d/1qlcgNT4YcZISOc7Lg6zPkyXDYgw9bfbz/view?usp=sharing)
