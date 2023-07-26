@@ -8,7 +8,7 @@ This repository contains links and resources to our slide show presentation. Onc
 
 ## [SlideShow](https://docs.google.com/presentation/d/1zmxowBter6J1kJP3ijulRlkOrP-mnWauqEHvtknU68E/edit?usp=sharing)
 
-## [Video]()
+## [Video](https://www.facebook.com/codefellows.org/videos/711803274290099/)
 
 <br>
 
