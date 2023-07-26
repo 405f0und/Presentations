@@ -12,4 +12,4 @@ This repository contains links and resources to our slide show presentation. Onc
 
 <br>
 
-## [Network Topology](https://drive.google.com/file/d/1qlcgNT4YcZISOc7Lg6zPkyXDYgw9bfbz/view?usp=sharing)
+## [Network Topology](https://github.com/405f0und/Documentation/blob/main/GreenSpark_Topology_v3.pdf)https://github.com/405f0und/Documentation/blob/main/GreenSpark_Topology_v3.pdf)
